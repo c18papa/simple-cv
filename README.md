@@ -9,7 +9,7 @@ Furthermore, it even allows you to host them on GitHub Pages. This project was
 inspired by my [own cv](http://cv.moacir.com), which uses the same underlying
 logic.
 
-Demos:
+Demosneww:
 *
 * [http://plain-plain-text.github.io/simple-cv/ ](http://plain-plain-text.github.io/simple-cv/)
 * [http://plain-plain-text.github.io/simple-cv/H_W_Jones.pdf ](http://plain-plain-text.github.io/simple-cv/H_W_Jones.pdf)
@@ -121,7 +121,7 @@ GitHub.
 ### `format.yml`
 
 This document holds all the configuration options shared in common between
-`html` and `pdf` versions. 
+`html` and `pdf` versions.
 documents as well as the `html` and `pdf` versions on their own. These options
 become variables like `$format.title$` in the templates. The templates use
 [Pandoc’s templating language](https://pandoc.org/MANUAL.html#templates),
