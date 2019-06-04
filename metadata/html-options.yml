@@ -10,15 +10,15 @@ fontawesome: true # whether to include fontawesome glyphs on the webpage.
 #### Hex values ("#nnnnnn") and rgb values ("rgb(n,n,n)") are allowed.
 ##
 #### If you would like to adjust the opacity, use rgba(), where the fourth term is
-#### an opacity, so "rgba(255, 0, 0, 0.75)" is bright red at 75% opacity. 
-## 
+#### an opacity, so "rgba(255, 0, 0, 0.75)" is bright red at 75% opacity.
+##
 #### The colors provided as examples are a joke. I like Bootstrap’s defaults.
 # background-color: "#66ffff" # This must be in quotes.
 navbar: # comment out this entire section to disable the navbar
-  background: light # or dark, primary, secondary, success, danger, warning, or info
+  background: warning # or dark, primary, secondary, success, danger, warning, or info
   text: light # or dark. "light" is dark text for light bkgds & "dark" the inverse.
   position: default # or fixed-top, fixed-bottom, or sticky-top
-  margin: 20 # pixels between navbar and content.
+  margin: 30 # pixels between navbar and content.
   # background-color: "#ff99ff" # This must be in quotes and overrides "background" above.
 html-fonts: # comment out this entire section to use default fonts
   body: # If you want just one custom font for everything, set only this one.
@@ -29,7 +29,7 @@ html-fonts: # comment out this entire section to use default fonts
     type: serif # or sans-serif or monospace
     name: Cormorant Garamond
     url: https://fonts.googleapis.com/css?family=Cormorant+Garamond
-  navbar: 
+  navbar:
     type: serif
     name: Cormorant Garamond
     url: https://fonts.googleapis.com/css?family=Cormorant+Garamond
@@ -51,9 +51,9 @@ last-modified: true
 meta-title: Simple CV
 canonical-url: "https://muziejus.github.io/simple-cv/" # Change this to your url.
 date-created: 2018-04-18
-description: >- 
+description: >-
   A Curriculum Vitæ created using the “simple-cv” package,
-  available at https://github.com/muziejus/simple-cv 
+  available at https://github.com/muziejus/simple-cv
 og-image:
   url: https://muziejus.github.io/simple-cv/assets/images/simple-cv.png
   type: image/png
