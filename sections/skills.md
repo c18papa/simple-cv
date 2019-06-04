@@ -1,4 +1,5 @@
 ## Skills
 
-* \LaTeX
-* Bullwhip
+* Network administration
+* Virtualization
+* Pen testing
