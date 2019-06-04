@@ -4,9 +4,10 @@
 # “sections/fields.md.”
 fields
 education
-appointments
+# appointments
 publications
-lectures
-teaching
-service
+# lectures
+# teaching
+# service
 skills
+languages
