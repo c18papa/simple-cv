@@ -10,7 +10,7 @@ inspired by my [own cv](http://cv.moacir.com), which uses the same underlying
 logic.
 
 Demos:
-
+*
 * [http://plain-plain-text.github.io/simple-cv/ ](http://plain-plain-text.github.io/simple-cv/)
 * [http://plain-plain-text.github.io/simple-cv/H_W_Jones.pdf ](http://plain-plain-text.github.io/simple-cv/H_W_Jones.pdf)
 
