@@ -1,4 +1,4 @@
-# simple-cv
+# c18papa based on simple-cv
 
 ![Simple-cv in action](https://i.imgur.com/BPNaV5B.png)
 
